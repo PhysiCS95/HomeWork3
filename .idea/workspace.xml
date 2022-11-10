@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b6362fc-7b1a-405e-b39d-f191b4b8e582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/BadPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/ExcelentPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/GoodPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/DocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/ExpertDocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/ProDocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5/Oracle.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b6362fc-7b1a-405e-b39d-f191b4b8e582" name="Changes" comment="HomeWork3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,8 +125,16 @@
       <workItem from="1668027841000" duration="129000" />
       <workItem from="1668028336800" duration="9185000" />
       <workItem from="1668082805352" duration="805000" />
-      <workItem from="1668084396395" duration="4793000" />
+      <workItem from="1668084396395" duration="5121000" />
     </task>
+    <task id="LOCAL-00001" summary="HomeWork3">
+      <created>1668091673370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668091673370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork3" />
   </component>
 </project>
